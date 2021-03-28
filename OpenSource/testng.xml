@@ -1,0 +1,9 @@
+<suite name = "OpenSource">
+    <test name = "Ejercicio OpenS">
+            <parameter name="username" value="Admin"></parameter>
+            <parameter name="password" value="Admin"></parameter>
+            <classes>
+                <class name = "OpenSource.OpenSourceTest"></class>
+            </classes>
+    </test>
+</suite>
